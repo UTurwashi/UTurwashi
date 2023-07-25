@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://github.com/UTurwashi/UTurwashi/blob/main/GitHub-screen.png)
+
 <h1 align="center">Hi 👋, I'm Urwashi</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
